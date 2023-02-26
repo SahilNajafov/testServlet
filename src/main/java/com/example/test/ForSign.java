@@ -1,2 +1,4 @@
-package com.example.test;public class ForSign {
+package com.example.test;
+
+public class ForSign {
 }
